@@ -1,0 +1,23 @@
+{
+    
+    "Atracciones" :[
+        {
+            "idProvincia": "1",
+            "nombreProvincia": "Guanacaste",
+            "atracciones": [
+            { "id": 1, "nombre": "RIU Palace" },
+            { "id": 2, "nombre": "Planet Hollywood" },
+            { "id": 3, "nombre": "Condovac" }
+            ]
+        },
+        {
+            "idProvincia": "2",
+            "nombreProvincia": "Puntarenas",
+            "atracciones": [
+            { "id": 1, "nombre": "Hotel Fiesta Resort" },
+            { "id": 2, "nombre": "Hotel Crocs" },
+            { "id": 3, "nombre": "Best Western Jaco Beach" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "Comentarios": [
+    {
+      "nombre": "Adolfo",
+      "correo": "Vargas",
+      "provincia": "Guanacaste",
+      "atraccion" : "Planet Hollywood",
+      "modalidad": "Todo Incluido", 
+      "comentario":"Quiero ir en abril"    
+    }, 
+    {
+      "nombre": "Adolfo",
+      "correo": "Vargas",
+      "provincia": "Puntarenas",
+      "atraccion" : "Hotel Fiesta",
+      "modalidad": "Todo Incluido", 
+      "comentario":"Quiero ir en abril"    
+    }  
+  ]
+}

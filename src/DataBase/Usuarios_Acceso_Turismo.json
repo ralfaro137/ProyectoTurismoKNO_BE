@@ -1,0 +1,25 @@
+{
+  "Usuarios": [
+    {
+      "nombre": "Adolfo Vargas Sandoval",
+      "correo": "adolfo@gmail.com",
+      "rol": "1",
+      "password" : "123",
+      "telefono": "86083879"      
+    },
+    {
+      "nombre": "Sophia Vargas Obando",
+      "correo": "sophia@gmail.com",
+      "rol": "2",
+      "password" : "123",
+      "telefono": "86083879"
+    }, 
+    {
+      "nombre": "Angie Obando Brenes",
+      "correo": "angie@gmail.com",
+      "rol": "3",
+      "password" : "123",
+      "telefono": "86083879"
+    }
+  ]
+}

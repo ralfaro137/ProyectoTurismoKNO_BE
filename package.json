@@ -1,0 +1,18 @@
+{
+  "name": "VlaApiGeneral",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adolfo Vargas",
+  "license": "ISC",
+  "description": "Esta es una api de mantenimientos de usuarios",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Usuarios": [
+    {
+      "cedula": "304670457",
+      "nombre": "Adolfo",
+      "edad": "33",
+      "correo": "adolfo2192@gmail.com",
+      "rol": "Administrativo"
+    },
+    {
+      "cedula": "123456789",
+      "nombre": "Sebastian Reid",
+      "edad": "25",
+      "correo": "sebastian@gmail.com",
+      "rol": "Contabilidad"
+    },
+    {
+      "cedula": "987654321",
+      "nombre": "Stwart Melendez",
+      "edad": "20",
+      "correo": "stwart@gmail.com",
+      "rol": "Contabilidad"
+    },
+    {
+      "cedula": "153759632",
+      "nombre": "Roxana Sandoval",
+      "edad": "60",
+      "correo": "roxana@gmail.com",
+      "rol": "Digitadora"
+    }
+  ]
+}
