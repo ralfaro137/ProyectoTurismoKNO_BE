@@ -7,10 +7,6 @@ const RouterUsuariosTurismo = require("./Routes/Usuarios_Acceso_Turismo");
 const app = express();
 const port = process.env.PORT || 4321;
 
-app.listen(port, () => {
-    console.log("API Refrescada en el puerto", port);
-});
-
 // Middleware para permitir CORS
 app.use((req, res, next) => {
     res.header('Access-Control-Allow-Origin', '*');
